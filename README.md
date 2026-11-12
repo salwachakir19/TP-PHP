@@ -56,7 +56,7 @@ J'ai utilisé PDO pour connecter PHP à la base de données MySQL.
 
 J'ai utilisé SELECT pour récupérer les produits et les afficher dans un tableau HTML avec le total du stock.
 
-![Capture Activité 8](./screenshots/activete8.png)
+![Capture Activité 8](./screenshots/activite8.png)
 
 # Bonus – Filtrage des produits
 
